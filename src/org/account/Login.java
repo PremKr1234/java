@@ -4,8 +4,13 @@ public class Login extends SignUp {
 	public void btnLogin() {
 		System.out.println("BtnLogin");
 	}
+	public void hello ()
+{
+System.out.println("Hello iam altron");		
+}
 	public void mob() {
 	System.out.println("tam");
+	
 
 	}
 	public static void main(String[] args) {
